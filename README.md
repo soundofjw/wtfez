@@ -5,8 +5,8 @@
 
 2012's Fez is great.
 
-It is my strong belief that the game contains a series of cryptographic and computer science problems
-that will yield either A) a correction solution to the monolith or B) a friendly easter-egg.
+It is my knowledge that the game contains a series of cryptographic and computer science problems
+that will yield a correction solution to the monolith.
 
 To demonstrate this, I create scripts which process data I extract from Fez. For example,
 [crypt.py](crypt/crypt.py) converts the open + closed door patterns of the crypt into 7 ascii characters.
